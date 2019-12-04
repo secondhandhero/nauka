@@ -8,5 +8,7 @@ with open(r'c:\data\pth\prog\temp\lista.csv') as csvfile:
     for row in readCSV:
         ages.append(int(row[1]))
 print(ages)
+ages.sort(reverse=1)
+print(ages)
 m=numpy.median(ages)  # type: real
 print(m)
