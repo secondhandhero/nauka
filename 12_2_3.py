@@ -1,4 +1,4 @@
-#co tam
+#co
 
 
 import csv
