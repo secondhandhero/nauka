@@ -1,4 +1,4 @@
-#pitu pitu
+#pitu pit
 
 
 import csv
